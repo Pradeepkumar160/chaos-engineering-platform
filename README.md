@@ -4,7 +4,7 @@ A production-grade chaos engineering dashboard with real-time metrics, SLO track
 
 ---
 
-## 🚀 Quick Start (Windows PowerShell)
+## 🚀 Quick Start (Windows PowerShell) 
 
 ### Option 1 — PowerShell (Recommended)
 
