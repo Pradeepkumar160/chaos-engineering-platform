@@ -1,4 +1,4 @@
-# 🌪️ Chaos Engineering Platform.      
+# 🌪️ Chaos Engineering Platform.     
 
 A production-grade chaos engineering dashboard with real-time metrics, SLO tracking, AI-powered root cause analysis, and service topology visualization.
 
